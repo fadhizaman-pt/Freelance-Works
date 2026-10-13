@@ -6,4 +6,4 @@ A list of my freelance works, each with a link to view the live project.
 
 | No. | Work | Description | View |
 |:---:|---------|-------------|:----:|
-| 1 | B Company | Short description of the work | [View](https://bcompanyfit.vercel.app/) |
+| 1 | B Company | Gym website for a fitness brand in Bahrain | [View](https://bcompanyfit.vercel.app/) |
