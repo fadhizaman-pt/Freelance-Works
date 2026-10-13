@@ -8,4 +8,4 @@ A list of my freelance works, each with a link to view the live project.
 
 > **Notes**
 > 1. These are freelance works done for clients, so the source code is private and cannot be made public.
-> 2. Available for freelance work. Feel free to contact me.
+> 2. Available for freelance work. Feel free to contact me at [fadhizamanptofficial@gmail.com](mailto:fadhizamanptofficial@gmail.com).
